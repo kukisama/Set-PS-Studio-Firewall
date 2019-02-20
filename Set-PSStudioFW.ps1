@@ -1,5 +1,5 @@
 ﻿##2019.1.15,disable SAPIEN FW
-#by kukisama
+#by kukisama 
 Function Set-PSStudioFW
 {
 	param (
